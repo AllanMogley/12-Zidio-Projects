@@ -1,8 +1,4 @@
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-
-[![Button Icon]][Link]
-
-
+![](https://github.com/AllanMogley/12-Zidio-Projects/blob/master/02%20-%20Assets/Projects_Folder.png)
 
 ### Zidio Projects  - Allan
 
